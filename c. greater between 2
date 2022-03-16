@@ -1,4 +1,4 @@
-'''3. Write a C program to find maximum between two numbers.'''
+'''3. Write a program to find maximum between two numbers.'''
 a=int(input("Enter the 1st number:"))
 b=int(input("Enter the 2nd number:"))
 if(a>b):
