@@ -1,4 +1,4 @@
-'''10. Write a C program to input any alphabet and check whether it is vowel or consonant.'''
+'''10. Write a program to input any alphabet and check whether it is vowel or consonant.'''
 ch=input("Enter the character:")
 if(ch>='a' and ch<='z'):
     print("The character is alphabet.")
