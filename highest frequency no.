@@ -8,3 +8,4 @@ for i in ai:
         max = freq
         res = i
 print ("maximum lists: " + str(max))
+print("highest frequency no:" + str(res))
